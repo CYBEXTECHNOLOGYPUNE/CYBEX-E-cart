@@ -1,0 +1,2 @@
+# CYBEX-E-cart
+A simple online shopping site with shopping cart.  Have only one or two products - maybe books Two types of users - customer and Administrator. Customer can only see and add products to his/her shopping cart. No need for payment integration as I am assuming this is a learning exercise. Administrator can see, add, edit and remove products. Username and password authentication for login to the site When a user logs out after adding a few items in shopping cart and then logs in again, the items should still be present in the shopping cart
